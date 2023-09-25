@@ -2,9 +2,6 @@
 #include<math.h>
 
 int main(){
-
-    //Criar um algoritmo que receba o valor de x, e calcule e imprima o valor de f(x). 
-
     double x;
     printf("Insira o valor de x:");
     scanf("%lf", &x);
